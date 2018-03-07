@@ -4,10 +4,10 @@
 Este é um simples chat desenvolvido em Shell script utilizando o intepretador **BASH** utilizando tambem ferramentas como **tmux** e **netpipes**, o mesmo aceita multiplas conexões.
 
 ## Motivação
-Como é um projeto simples de encontrar em outras linguagens, vi a necessidade de desenvolver um simples projeto utilizando Shell Script para servir como exemplo quem procura algo do tipo, já que o mesmo não é simples de encontrar.
+Como é um projeto simples de encontrar em outras linguagens, vi a necessidade de desenvolver um simples projeto utilizando Shell Script para servir como exemplo para quem procura algo do tipo, já que o mesmo não é simples de encontrar.
 
 ## Pré-requisitos
-Como sitado acima, foram utilizadas duas ferramentas tmux e netpipes. Recomendamos utilziar um sistema baseado em **linux**, neste caso foi utilizado a distribuição Ubuntu 16.04, tanto para o servidor(utilizado ip publico) como para os clientes. <br>
+Como citado acima, foram utilizadas duas ferramentas tmux e netpipes. Recomendamos utilziar um sistema baseado em **linux**, neste caso foi utilizado a distribuição Ubuntu 16.04, tanto para o servidor(utilizado ip publico) como para os clientes. <br>
 Para instalar o Tmux utilize o comando:<br>
 ```
 sudo apt-get install tmux
